@@ -1,6 +1,6 @@
 {
   "name": "training_api",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Swagger api client for microsoft's custom vision training api",
   "license": "Unlicense",
   "main": "src/index.js",
